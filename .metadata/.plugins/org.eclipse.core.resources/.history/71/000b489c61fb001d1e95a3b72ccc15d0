@@ -1,0 +1,5 @@
+package com.excer.test.bean;
+
+public class Movie {
+
+}

@@ -1,0 +1,5 @@
+package com.excer.test.dao;
+
+public interface MovieDAO {
+
+}

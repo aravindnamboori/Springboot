@@ -1,0 +1,12 @@
+package com.excer.test;
+
+import org.springframework.boot.SpringApplication;
+
+public class OnlineMovie {
+
+	public static void main(String[] args) 
+	{
+		SpringApplication.run(OnlineMovie.class, args);
+	}
+
+}

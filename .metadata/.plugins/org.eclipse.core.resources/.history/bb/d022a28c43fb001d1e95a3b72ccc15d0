@@ -1,0 +1,12 @@
+package com.excer.test.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.excer.test.bean.Movie;
+
+public interface MovieDAO extends JpaRepository<Movie,Integer>
+{
+	
+	
+
+}
